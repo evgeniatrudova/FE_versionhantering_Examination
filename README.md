@@ -93,5 +93,6 @@ git config --global user.email "evgeniatrudova@gmail.com" informerar kontakt ema
 9. git checkout kontrollerar vilken branch man befinner sig på
 10. git commit -m lägger till en meddelande;byter namn på filändring från filnamn till vilken konkret ändring har genomförts; vilket gör det lättare att gå tillbaka; då varje sådan "staged" ändring har en kod som man kan använda för att återvända tillbaka.
 11. git log  loggar ändringar 
+12. git merge sammankopplar flera brancher 
 
 Mer git koder finns här:   https://www.git-tower.com/blog/git-cheat-sheet
