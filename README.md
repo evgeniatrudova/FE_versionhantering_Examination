@@ -48,8 +48,8 @@ vanliga benämningar för huvud grenar av information. Genom att arbeta med gren
 - [ ] **Clone** = När man kopierar en repository; t.ex från en gren till en annan. Dessa grenar kan kommunisera
 med varandra med olika komando. Clone; kan även vara benämd som remote; en kopia som kan ändras
 och kommunisera med branch och med andra kloner och kopior.
-- [ ] **Fork** = Kommando; skapar en kopia av repository.
-- [ ] **Commit** = Kommando, som sänder information till repository.
+- [ ] **Fork** = Kommando; skapar en kopia av repository, i Github man få en kopia av arbete från en annan användare i egen konto och kan göra ändringar.Används när man vill återanvända någons kod som stomme för ett projekt.Arbete i ett fork påverkar inte original kod av användare i frågan.Man kan skicka ändringat till original kod genom "pull request" men dessa ändringar måste accepteras av användare först innan kod sammanflätas.Man kan inte använda push och tvinga ändringar in i en annan användare repository.
+- [ ] **Commit** = Kommando, som sänder information till repository.Forking kan göras med knapp och direkt i fil, men penna ikon.
 - [ ] **Add** = Vanlig kommando som lägger till en liten ändring.
 - [ ] **Push** = Kommando, uppdaterar branch innehåll.
 - [ ] **Pull** = Kommando; hämtar innehåll från branch.Används ofta för överblick och dev arbete för att göra
